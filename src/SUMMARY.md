@@ -44,3 +44,4 @@
   - [Code and API conventions](contribute/conventions.md)
 - [Migration guides](migrate/index.md)
   - [Migrating to v0.2](migrate/v0.2.md)
+  - [Migrating to v0.3](migrate/v0.3.md)
