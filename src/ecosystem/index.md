@@ -46,7 +46,7 @@ A list for games is also planned, and will be showcased on a separate page.
 [gdext-coroutines]: https://github.com/Houtamelo/gdext_coroutines
 [gdext-coroutines-crate]: https://crates.io/crates/gdext_coroutines
 [gdext-coroutines-discord]: https://discord.com/channels/723850269347283004/1255555232390451293/125555523
-[gdext-coroutines-badge]: https://img.shields.io/github/last-commit/Houtamelo/gdext_coroutines2390451293
+[gdext-coroutines-badge]: https://img.shields.io/github/last-commit/Houtamelo/gdext_coroutines
 
 [godot-tokio]: https://github.com/2-3-5-41/godot_tokio
 [godot-tokio-discord]: https://discord.com/channels/723850269347283004/1312490414762364928/1312490414762364928
